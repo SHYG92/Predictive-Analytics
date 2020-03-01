@@ -1,0 +1,5 @@
+
+Predict if given new customers are creditworthy or not using Logistic Regression, 
+Decision Tree, Forest Model and Boosted Model.
+
+Compare between the four models and choose the best of them.
